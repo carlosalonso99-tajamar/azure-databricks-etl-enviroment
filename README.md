@@ -20,10 +20,8 @@ Azure Databricks es una plataforma de análisis de datos unificada y abierta que
 
 ## Paso 3: Usar Spark
 
-1. Vamos a workspace y creamos un repo:
-![alt text]({3D4C9885-7E36-4B25-BA52-3AD998551F9E}.png)
-
-2. Dentro del repo creamos un cuaderno: Crear > Cuadernos
+1. Vamos a workspace > shared 
+2. Dentro de shared creamos un cuaderno: Crear > Cuadernos
 
 3. Ahora carguemos products.csv a databricks en Archivo > Cargar datos al DBFS... 
 
@@ -69,7 +67,7 @@ df1.write.saveAsTable('products')
 ```
 %sql
 
-SELECT ProductName, ListPrice
+SELECT *
 FROM products
-WHERE Category = 'Touring Bikes'
+
 ```
