@@ -1,0 +1,296 @@
+ID de producto, nombre del producto, categoría, precio de lista
+771, "Mountain-100 Silver, 38", bicicletas de montaña, 3399,9900
+772, "Mountain-100 Silver, 42", Bicicletas de montaña, 3399,9900
+773, "Mountain-100 Silver, 44", Bicicletas de montaña, 3399,9900
+774, "Mountain-100 Silver, 48", bicicletas de montaña, 3399,9900
+775, "Mountain-100 Black, 38", Bicicletas de montaña, 3374.9900
+776, "Mountain-100 Black, 42", Bicicletas de montaña, 3374.9900
+777, "Mountain-100 Black, 44", bicicletas de montaña, 3374,9900
+778, "Mountain-100 Black, 48", Bicicletas de montaña, 3374.9900
+779, "Mountain-200 Silver, 38", Bicicletas de montaña, 2319,9900
+780, Mountain-200 Silver, 42, bicicletas de montaña, 2319,9900
+781, Mountain-200 Silver, 46, bicicletas de montaña, 2319,9900
+782, Mountain-200 Black, 38, Bicicletas de montaña, 2294,9900
+783, "Mountain-200 Black, 42", Bicicletas de montaña, 2294,9900
+784, "Mountain-200 Black, 46", Bicicletas de montaña, 2294,9900
+785, Mountain-300 Black, 38, Bicicletas de montaña, 1079,9900
+786, "Mountain-300 Black, 40", Bicicletas de montaña, 1079,9900
+787, "Mountain-300 Black, 44", Bicicletas de montaña, 1079,9900
+788, "Mountain-300 Black, 48", Bicicletas de montaña, 1079,9900
+980, Mountain-400-W Silver, 38, Bicicletas de montaña, 769,4900
+981, "Mountain-400-W Plata, 40", Bicicletas de montaña, 769,4900
+982, "Mountain-400-W Silver, 42", Bicicletas de montaña, 769,4900
+983, "Mountain-400-W Silver, 46", Bicicletas de montaña, 769,4900
+984, "Mountain-500 Silver, 40", Bicicletas de montaña, 564,9900
+985, Mountain-500 Silver, 42, Bicicletas de montaña, 564,9900
+986, "Mountain-500 Silver, 44", Bicicletas de montaña, 564,9900
+987, Mountain-500 Silver, 48, bicicletas de montaña, 564,9900
+988, "Mountain-500 Silver, 52", Bicicletas de montaña, 564,9900
+989, "Mountain-500 Black, 40", bicicletas de montaña, 539,9900
+990, "Mountain-500 Black, 42", bicicletas de montaña, 539,9900
+991, "Mountain-500 Black, 44", Bicicletas de montaña, 539,9900
+992, "Mountain-500 Black, 48", bicicletas de montaña, 539,9900
+993, "Mountain-500 Black, 52", Bicicletas de montaña, 539,9900
+973, "Road-350-W Amarillo, 40", Bicicletas de carretera, 1700.9900
+974, "Road-350-W Amarillo, 42", Bicicletas de carretera, 1700.9900
+975, "Road-350-W Amarillo, 44", Bicicletas de carretera, 1700.9900
+976, "Road-350-W Amarillo, 48", Bicicletas de carretera, 1700.9900
+977, "Road-750 Black, 58", bicicletas de carretera, 539,9900
+997, "Road-750 Black, 44", bicicletas de carretera, 539,9900
+998, "Road-750 Black, 48", bicicletas de carretera, 539,9900
+999, "Road-750 Black, 52", bicicletas de carretera, 539,9900
+789, "Road-250 Red, 44", Bicicletas de carretera, 2443.3500
+790, "Road-250 Red, 48", Bicicletas de carretera, 2443.3500
+791, "Road-250 Red, 52", Bicicletas de carretera, 2443.3500
+792, "Road-250 Red, 58", Bicicletas de carretera, 2443.3500
+793, "Road-250 Black, 44", Bicicletas de carretera, 2443.3500
+794, "Road-250 Black, 48", Bicicletas de carretera, 2443.3500
+795, "Road-250 Black, 52", Bicicletas de carretera, 2443.3500
+796, "Road-250 Black, 58", Bicicletas de carretera, 2443.3500
+797, "Road-550-W Amarillo, 38", Bicicletas de carretera, 1120.4900
+798, "Road-550-W Amarillo, 40", Bicicletas de carretera, 1120.4900
+799, "Road-550-W Amarillo, 42", Bicicletas de carretera, 1120.4900
+800, "Road-550-W Amarillo, 44", Bicicletas de carretera, 1120.4900
+801, Road-550-W Amarillo, 48", Bicicletas de carretera, 1120.4900
+749, "Road-150 Red, 62", Bicicletas de carretera, 3578.2700
+750, "Road-150 Red, 44", Bicicletas de carretera, 3578.2700
+751, "Road-150 Red, 48", Bicicletas de carretera, 3578.2700
+752, "Road-150 Red, 52", Bicicletas de carretera, 3578.2700
+753, "Road-150 Red, 56", Bicicletas de carretera, 3578.2700
+754, "Road-450 Red, 58", Bicicletas de carretera, 1457,9900
+755, "Road-450 Red, 60", Bicicletas de carretera, 1457,9900
+756, "Road-450 Red, 44", Bicicletas de carretera, 1457,9900
+757, "Road-450 Red, 48", Bicicletas de carretera, 1457.9900
+758, "Road-450 Red, 52", Bicicletas de carretera, 1457,9900
+759, "Road-650 Red, 58", Bicicletas de carretera, 782.9900
+760, "Road-650 Red, 60", bicicletas de carretera, 782,9900
+761, "Road-650 Red, 62", Bicicletas de carretera, 782.9900
+762, "Road-650 Red, 44", Bicicletas de carretera, 782.9900
+763, "Road-650 Red, 48", Bicicletas de carretera, 782.9900
+764, "Road-650 Red, 52", Bicicletas de carretera, 782.9900
+765, "Road-650 Black, 58", bicicletas de carretera, 782,9900
+766, "Road-650 Black, 60", bicicletas de carretera, 782,9900
+767, "Road-650 Black, 62", bicicletas de carretera, 782.9900
+768, "Road-650 Black, 44", Bicicletas de carretera, 782.9900
+769, "Road-650 Black, 48", Bicicletas de carretera, 782.9900
+770, "Road-650 Black, 52", bicicletas de carretera, 782,9900
+978, "Touring-3000 Azul, 44", Bicicletas de turismo, 742.3500
+979, "Touring-3000 Azul, 50", Bicicletas de turismo, 742.3500
+953, "Touring-2000 Azul, 60", Bicicletas de turismo, 1214.8500
+954, "Touring-1000 Amarillo, 46", Bicicletas de turismo, 2384.0700
+955, Touring-1000 Amarillo, 50, Bicicletas de turismo, 2384.0700
+956, Touring-1000 Amarillo, 54, Bicicletas de turismo, 2384.0700
+957, "Touring-1000 Amarillo, 60", Bicicletas de turismo, 2384.0700
+958, "Touring-3000 Azul, 54", Bicicletas de turismo, 742.3500
+959, "Touring-3000 Azul, 58", Bicicletas de turismo, 742.3500
+960, Touring-3000 Azul, 62, Bicicletas de turismo, 742.3500
+961, Touring-3000 Amarillo, 44, Bicicletas de turismo, 742.3500
+962, Touring-3000 Amarillo, 50, Bicicletas de turismo, 742.3500
+963, Touring-3000 Amarillo, 54, Bicicletas de turismo, 742.3500
+964, Touring-3000 Amarillo, 58, Bicicletas de turismo, 742.3500
+965, Touring-3000 Amarillo, 62, Bicicletas de turismo, 742.3500
+966, Touring-1000 Azul, 46, Bicicletas de turismo, 2384.0700
+967, "Touring-1000 Azul, 50", Bicicletas de turismo, 2384.0700
+968, "Touring-1000 Azul, 54", Bicicletas de turismo, 2384.0700
+969, "Touring-1000 Azul, 60", Bicicletas de turismo, 2384.0700
+970, "Touring-2000 Azul, 46", Bicicletas de turismo, 1214.8500
+971, "Touring-2000 Azul, 50", Bicicletas de turismo, 1214.8500
+972, "Touring-2000 Azul, 54", Bicicletas de turismo, 1214.8500
+946,LL Touring Manillar,Manillares,46.0900
+947,Manillares HL Touring,Manillares,91.5700
+808,Manillares LL Mountain,Manillares,44.5400
+809,Manillares de montaña ML,Manillares,61.9200
+810,Manillares de montaña HL,Manillares,120.2700
+811,LL Road Manillar,Manillares,44.5400
+812,Manillares de carretera ML,Manillares,61.9200
+813,Manillares de carretera HL,Manillares,120.2700
+994, LL Eje de pedalier, Ejes de pedalier, 53,9900
+995, ML Eje de pedalier, Ejes de pedalier, 101.2400
+996, Eje de pedalier HL, Ejes de pedalier, 121.4900
+948,Frenos delanteros,Frenos,106.5000
+907,Frenos traseros,Frenos,106.5000
+952,Cadena,Cadenas,20.2400
+949, LL Juego de bielas, Juegos de bielas, 175.4900
+950, ML Juego de bielas, Juegos de bielas, 256.4900
+951, juego de bielas HL, juegos de bielas, 404.9900
+945, desviador delantero, desviadores, 91.4900
+894, cambio trasero, cambios, 121.4600
+802,LL Horquilla,Horquillas,148.2200
+803,ML Horquilla,Horquillas,175.4900
+804,HL Horquilla,Horquillas,229.4900
+805,LL Auriculares,Auriculares,34.2000
+806,ML Auriculares,Auriculares,102.2900
+807, Auriculares HL, Auriculares, 124.7300
+739, "Cuadro de montaña HL - Plata, 42", Cuadros de montaña, 1364.5000
+740, "Cuadro de montaña HL - Plata, 44", Cuadros de montaña, 1364.5000
+741, "Cuadro de montaña HL - Plata, 48", Cuadros de montaña, 1364.5000
+742, "Cuadro de montaña HL - Plata, 46", Cuadros de montaña, 1364.5000
+743, "Cuadro de montaña HL, negro, 42", Cuadros de montaña, 1349.6000
+744, "Cuadro de montaña HL, negro, 44", Cuadros de montaña, 1349.6000
+745, "Cuadro de montaña HL, negro, 48", Cuadros de montaña, 1349.6000
+746, "Cuadro de montaña HL, negro, 46", Cuadros de montaña, 1349.6000
+747, "Cuadro de montaña HL, negro, 38", Cuadros de montaña, 1349.6000
+748, "Cuadro de montaña HL - Plata, 38", Cuadros de montaña, 1364.5000
+814, "Cuadro de montaña ML, negro, 38", Mountain Frames, 348,7600
+830, "Cuadro de montaña ML, negro, 40", Mountain Frames, 348,7600
+831, "Cuadro de montaña ML, negro, 44", Mountain Frames, 348,7600
+832, "Cuadro de montaña ML, negro, 48", Mountain Frames, 348,7600
+924, "Cuadro de montaña LL, negro, 42", cuadros de montaña, 249,7900
+925, "Cuadro de montaña LL, negro, 44", Cuadros de montaña, 249,7900
+926, "Cuadro de montaña LL, negro, 48", cuadros de montaña, 249,7900
+927, "Cuadro de montaña LL, negro, 52", cuadros de montaña, 249,7900
+917, "Cuadro LL Mountain - Plata, 42", Cuadros Mountain, 264,0500
+918, "Cuadro LL Mountain - Plata, 44", Cuadros Mountain, 264,0500
+919, "Cuadro LL Mountain - Plata, 48", Cuadros Mountain, 264,0500
+920, "Cuadro LL Mountain - Plata, 52", Cuadros Mountain, 264,0500
+904, "Cuadro de montaña ML-W - Plata, 40", Cuadros de montaña, 364.0900
+905, "Cuadro de montaña ML-W - Plata, 42", Cuadros de montaña, 364,0900
+906, "Cuadro de montaña ML-W - Plata, 46", Cuadros de montaña, 364,0900
+942, "Cuadro de montaña ML-W - Plata, 38", Cuadros de montaña, 364.0900
+943, "Cuadro de montaña LL, negro, 40", Cuadros de montaña, 249,7900
+944, "Cuadro de montaña LL - Plata, 40", Cuadros de montaña, 264,0500
+935, Pedales de montaña LL, Pedales, 40,4900
+936, Pedal de montaña ML, Pedales, 62.0900
+937, Pedales de montaña HL, Pedales, 80,9900
+938, Pedal de carretera LL, Pedales, 40.4900
+939, Pedal de carretera ML, Pedales, 62.0900
+940, Pedal de carretera HL, Pedales, 80,9900
+941, Pedales de turismo, Pedales, 80.9900
+833, "Cuadro de carretera ML-W - Amarillo, 40", Cuadros de carretera, 594.8300
+834, "Cuadro de carretera ML-W - Amarillo, 42", Cuadros de carretera, 594.8300
+835, "Cuadro de carretera ML-W - Amarillo, 44", Cuadros de carretera, 594.8300
+836, "Cuadro de carretera ML-W - Amarillo, 48", Cuadros de carretera, 594.8300
+837, "Cuadro de carretera HL, negro, 62", Cuadros de carretera, 1431.5000
+838, "Cuadro de carretera HL, negro, 44", Cuadros de carretera, 1431.5000
+839, "Cuadro de carretera HL, negro, 48", Cuadros de carretera, 1431.5000
+840, "Cuadro de carretera HL, negro, 52", Cuadros de carretera, 1431.5000
+822, "Cuadro de carretera ML-W - Amarillo, 38", Cuadros de carretera, 594.8300
+680, "Cuadro de carretera HL, negro, 58", Cuadros de carretera, 1431.5000
+706, "Cuadro de carretera HL, rojo, 58", Cuadros de carretera, 1431.5000
+717, "Cuadro de carretera HL, rojo, 62", Cuadros de carretera, 1431.5000
+718, "Cuadro de carretera HL, rojo, 44", Cuadros de carretera, 1431.5000
+719, "Cuadro de carretera HL, rojo, 48", Cuadros de carretera, 1431.5000
+720, "Cuadro de carretera HL, rojo, 52", Cuadros de carretera, 1431.5000
+721, "Cuadro de carretera HL, rojo, 56", Cuadros de carretera, 1431.5000
+722, "Cuadro de carretera LL, negro, 58", Cuadros de carretera, 337.2200
+723, "Cuadro de carretera LL, negro, 60", Cuadros de carretera, 337.2200
+724, "Cuadro de carretera LL, negro, 62", Cuadros de carretera, 337.2200
+725, "Cuadro de carretera LL, rojo, 44", Cuadros de carretera, 337.2200
+726, "Cuadro de carretera LL, rojo, 48", Cuadros de carretera, 337.2200
+727, "Cuadro de carretera LL, rojo, 52", Cuadros de carretera, 337.2200
+728, "Cuadro de carretera LL, rojo, 58", Cuadros de carretera, 337.2200
+729, "Cuadro de carretera LL, rojo, 60", Cuadros de carretera, 337.2200
+730, "Cuadro de carretera LL, rojo, 62", Cuadros de carretera, 337.2200
+731, "Cuadro de carretera ML, rojo, 44", Cuadros de carretera, 594.8300
+732, "Cuadro de carretera ML, rojo, 48", Cuadros de carretera, 594,8300
+733, "Cuadro de carretera ML, rojo, 52", Cuadros de carretera, 594,8300
+734, "Cuadro de carretera ML, rojo, 58", Cuadros de carretera, 594.8300
+735, "Cuadro de carretera ML, rojo, 60", Cuadros de carretera, 594,8300
+736, "Cuadro de carretera LL, negro, 44", Cuadros de carretera, 337.2200
+737, "Cuadro de carretera LL, negro, 48", Cuadros de carretera, 337.2200
+738, "Cuadro de carretera LL, negro, 52", Cuadros de carretera, 337.2200
+908, Asiento/sillín de montaña LL, Sillines, 27,1200
+909, Asiento/sillín de montaña ML, Sillines, 39,1400
+910, Asiento/sillín de montaña HL, Sillines, 52,6400
+911, Asiento/sillín de carretera LL, Sillines, 27.1200
+912, Asiento/sillín de carretera ML, Sillines, 39,1400
+913, Asiento/sillín de carretera HL, Sillines, 52,6400
+Asiento/sillín Touring 914,LL, Sillines,27.1200
+915, Asiento/sillín ML Touring, Sillines, 39,1400
+916, Asiento/sillín de turismo HL, Sillines, 52.6400
+895, "Cuadro de turismo LL, azul, 50", Cuadros de turismo, 333.4200
+896, "Cuadro de turismo LL, azul, 54", Cuadros de turismo, 333.4200
+897, "Cuadro de turismo LL, azul, 58", Cuadros de turismo, 333.4200
+898, "Cuadro de turismo LL, azul, 62", Cuadros de turismo, 333.4200
+899, "Cuadro de turismo LL, amarillo, 44", Cuadros de turismo, 333.4200
+900, "Cuadro Touring LL - Amarillo, 50",Cuadros Touring,333.4200
+901, "Cuadro Touring LL - Amarillo, 54",Cuadros Touring,333.4200
+902, "Cuadro Touring LL - Amarillo, 58",Cuadros Touring,333.4200
+903, "Cuadro de turismo LL, azul, 44",Cuadros de turismo, 333.4200
+885, "Cuadro de turismo HL, amarillo, 60", Cuadros de turismo, 1003.9100
+886, "Cuadro Touring LL - Amarillo, 62",Cuadros Touring,333.4200
+887, "Cuadro de turismo HL, amarillo, 46", Cuadros de turismo, 1003.9100
+888, "Cuadro de turismo HL, amarillo, 50", Cuadros de turismo, 1003.9100
+889, "Cuadro de turismo HL, amarillo, 54", Cuadros de turismo, 1003.9100
+890, "Cuadro de turismo HL, azul, 46", Cuadros de turismo, 1003.9100
+891, "Cuadro de turismo HL, azul, 50", Cuadros de turismo, 1003.9100
+892, "Cuadro de turismo HL, azul, 54", Cuadros de turismo, 1003.9100
+893, "Cuadro de turismo HL, azul, 60", Cuadros de turismo, 1003.9100
+823,LL Rueda trasera de montaña,Ruedas,87.7450
+824, Rueda trasera de montaña ML, Ruedas, 236.0250
+825, Rueda trasera de montaña HL, Ruedas, 327.2150
+826,LL Rueda trasera para carretera,Ruedas,112.5650
+827, Rueda trasera de carretera ML, Ruedas, 275.3850
+828, Rueda trasera de carretera HL, Ruedas, 357.0600
+829,Rueda trasera Touring,Ruedas,245.0100
+815,LL Rueda delantera de montaña,Ruedas,60.7450
+816, Rueda delantera de montaña ML, Ruedas, 209.0250
+817, Rueda delantera de montaña HL, Ruedas, 300.2150
+818,LL Road Rueda delantera,Ruedas,85.5650
+819, Rueda delantera de carretera ML, Ruedas, 248.3850
+820,HL Rueda delantera para carretera,Ruedas,330.0600
+821,Rueda delantera de turismo,Ruedas,218.0100
+855, "Culotte con tirantes para hombre, talla S",Culotte con tirantes,89,9900
+856, "Culottes con tirantes para hombre, M",Culottes con tirantes,89.9900
+857, "Culottes con tirantes para hombre, L",Culottes con tirantes,89.9900
+712, Gorra con logotipo de AWC, Gorras, 8,9900
+858, "Guantes de medio dedo, S", Guantes, 24.4900
+859, "Guantes de medio dedo, M", Guantes, 24.4900
+860, "Guantes de medio dedo, L", Guantes, 24,4900
+861, "Guantes de dedos completos, S", Guantes, 37,9900
+862, "Guantes de dedos completos, M", Guantes, 37,9900
+863, "Guantes de dedos completos, L", Guantes, 37,9900
+713, "Camiseta de manga larga con logotipo, talla S",Camisetas, 49,9900
+714, "Camiseta de manga larga con logotipo, M",Camisetas,49,9900
+715, "Camiseta de manga larga con logotipo, L",Camisetas,49,9900
+716, "Camiseta de manga larga con logotipo, XL",Camisetas, 49,9900
+881, "Camiseta clásica de manga corta, talla S",Camisetas, 53,9900
+882, "Camiseta clásica de manga corta, M",Camisetas,53,9900
+883, "Camiseta clásica de manga corta, L",Camisetas,53,9900
+884, "Camiseta clásica de manga corta, XL",Camisetas, 53,9900
+867, "Shorts de montaña para mujer, talla S",Shorts,69,9900
+868, "Shorts de montaña para mujer, M",Shorts,69,9900
+869, "Shorts de montaña para mujer, L",Shorts,69,9900
+841, "Shorts deportivos para hombre, talla S",Shorts, 59,9900
+849, "Shorts deportivos para hombre, M",Shorts,59,9900
+850, "Shorts deportivos para hombre, L",Shorts,59,9900
+851, "Shorts deportivos para hombre, XL",Shorts, 59,9900
+709, "Calcetines para bicicleta de montaña, M",Calcetines,9,5000
+710, "Calcetines para bicicleta de montaña, L",Calcetines,9,5000
+874, "Calcetines de carrera, M",Calcetines,8,9900
+875, "Calcetines de carrera, L",Calcetines,8,9900
+852, "Medias de mujer, talla S",Medias, 74,9900
+853, "Medias de mujer, M",Medias, 74,9900
+854, "Medias de mujer, L",Medias, 74,9900
+864, "Chaleco clásico, S", Chalecos, 63,5000
+865, "Chaleco clásico, M", Chalecos, 63,5000
+866, "Chaleco clásico, L", Chalecos, 63,5000
+876, Portabicicletas para enganche de 4 bicicletas, Portabicicletas, 120,0000
+879,Soporte para bicicletas multiusos,Soportes para bicicletas,159.0000
+870, Botella de agua - 30 oz., Botellas y portabotellas, 4,9900
+871, Portabidón Mountain, Bidones y portabidones, 9,9900
+872, Portabidón para carretera, Bidones y portabidones, 8.9900
+877,Lavado de bicicletas - Disolvente,Limpiadores,7.9500
+878, Juego de guardabarros - Montaña, Guardabarros, 21.9800
+711, "Casco Sport-100, azul", Cascos, 34,9900
+707, "Casco Sport-100, rojo", Cascos, 34,9900
+708, "Casco Sport-100, negro", Cascos, 34,9900
+880, Mochila de hidratación - 70 oz, Mochilas de hidratación, 54,9900
+846, Luces traseras - Funcionan con pilas, Luces, 13,9900
+847,Faros delanteros - Doble haz,Luces,34.9900
+848,Faros delanteros - Resistentes a la intemperie,Luces,44.9900
+843,Cerradura con cable,Cerraduras,25.0000
+842, "Alforjas de viaje, grandes",Alforjas,125.0000
+844,Minibomba,Bombas,19.9900
+845,Bomba de montaña,Bombas,24.9900
+873, Kit de parches/8 parches, neumáticos y cámaras, 2.2900
+921, Cámara de aire para neumáticos de montaña, Neumáticos y cámaras, 4,9900
+922, Cámara de aire para neumáticos de carretera, Neumáticos y cámaras, 3.9900
+923, Cámara de aire para turismo, Neumáticos y cámaras, 4.9900
+928,LL Neumáticos de montaña, Neumáticos y cámaras, 24,9900
+Neumáticos y cámaras de montaña ML 929,29,9900
+930, Neumáticos de montaña HL, Neumáticos y cámaras, 35,0000
+931,LL Neumáticos de carretera, Neumáticos y cámaras, 21.4900
+932, ML Neumáticos de carretera, Neumáticos y cámaras, 24,9900
+933, Neumáticos de carretera HL, Neumáticos y cámaras, 32.6000
+934, Neumáticos de turismo, Neumáticos y cámaras, 28,9900
